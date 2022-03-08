@@ -64,6 +64,7 @@ PRODUCT_PACKAGES += \
     ProxyHandler \
     screenrecord \
     SecureElement \
+    SecurityConfHistory \
     SharedStorageBackup \
     SimAppDialog \
     talkback \
